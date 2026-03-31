@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre mim
 
-- 💼 Desenvolvedor Full Stack (Angular + NestJS)
+- 💼 Desenvolvedor Full Stack
 - ⚡ Foco em performance e boas práticas
 - 📈 Evoluindo em arquitetura e sistemas escaláveis
 - 💡 Sempre aprendendo novas tecnologias
