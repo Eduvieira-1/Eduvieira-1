@@ -31,12 +31,14 @@
   <img align="center" src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/rxjs-%23B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  
 </div>
 
 ---
